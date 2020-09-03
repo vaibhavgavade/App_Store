@@ -1,0 +1,103 @@
+{
+  "message": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "Evian",
+      "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/category/1538302178_378600.png",
+      "products": [
+        {
+          "id": 1,
+          "product_name": "24 Pieces 330ml",
+          "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/products/_1536063928_671328.jpg",
+          "price": 80.5
+        },
+        {
+          "id": 2,
+          "product_name": "12 Pieces 750ml",
+          "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/products/_1588846337_89506.jpg",
+          "price": 85
+        },
+        {
+          "id": 3,
+          "product_name": "24 Pieces. 300ml ",
+          "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/products/_1588846417_350011.jpg",
+          "price": 88
+        },
+        {
+          "id": 4,
+          "product_name": "12 Pieces. 1 L",
+          "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/products/_1588846928_235546.jpeg",
+          "price": 88
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Oasis",
+      "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/category/1585583335_645556.png",
+      "products": []
+    },
+    {
+      "id": 3,
+      "name": "Aquafina",
+      "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/category/1591083516_914647.png",
+      "products": []
+    },
+    {
+      "id": 4,
+      "name": "Acqua Panna",
+      "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/category/1559108740_924863.jpg",
+      "products": [
+        {
+          "id": 5,
+          "product_name": "200g Coffee Mate",
+          "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/products/_1588488720_235147.jpg",
+          "price": 17
+        },
+        {
+          "id": 6,
+          "product_name": "100 bag Yellow Label Tea",
+          "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/products/_1588487918_291929.jpg",
+          "price": 18
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "AlRwada",
+      "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/category/1577710362_970060.png",
+      "products": []
+    },
+    {
+      "id": 6,
+      "name": "Sirma",
+      "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/category/1537022891_395381.png",
+      "products": []
+    },
+    {
+      "id": 7,
+      "name": "Masafi",
+      "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/category/1532929356_701777.png",
+      "products": []
+    },
+    {
+      "id": 8,
+      "name": "Al Ain",
+      "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/category/1550735929_465611.jpg",
+      "products": []
+    },
+    {
+      "id": 9,
+      "name": "Abant ",
+      "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/category/1554371446_139721.jpg",
+      "products": []
+    },
+    {
+      "id": 10,
+      "name": "Fiji Water",
+      "image": "https://d31ppm3jbkmovl.cloudfront.net/images/rushgrocery/category/1591689046_751528.jpg",
+      "products": []
+    }
+  ]
+}
